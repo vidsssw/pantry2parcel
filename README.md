@@ -9,7 +9,7 @@ To run the code:
 2.Connect to the Apache and MYSQL server. 
 3.Download the files 
 4.Import the Restdata.sql in the SQL server. 
-5.and Run it on NetBeans.
+5.Run it through NetBeans.
 
 
 Output Screenshots:
