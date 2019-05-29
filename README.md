@@ -14,4 +14,31 @@ To run the code:
 
 Output Screenshots:
 
+First Page:
+
+![Alt text](firstpage.PNG?raw=true "First Page")
+
+Login Page:
+
 ![Alt text](login.PNG?raw=true "Login Page")
+
+Signup Page:
+
+![Alt text](signup.PNG?raw=true "Signup Page")
+
+Area Page:
+
+![Alt text](showarea.PNG?raw=true "Area Page")
+
+Restaurants Page:
+
+![Alt text](rests.PNG?raw=true "Restaurants Page")
+
+Dishes Page:
+
+![Alt text](dishespage.PNG?raw=true "Dishes Page")
+
+Result page:
+
+![Alt text](results.PNG?raw=true "Result Page")
+
