@@ -14,4 +14,4 @@ To run the code:
 
 Output Screenshots:
 
-![Alt text](/login.png?raw=true "Login Page")
+![Alt text](/pantry2parcel/login.PNG?raw=true "Login Page")
